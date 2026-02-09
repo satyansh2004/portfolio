@@ -33,7 +33,7 @@ term.loadAddon(webaddon);
 term.loadAddon(searchaddon);
 
 term.open(document.getElementById("terminal"));
-term.write("Welcom to my portfolio, Type: \r\n`More`: To get more information about me\r\n`clear`: To erase Terminal");
+term.write("Welcome to my portfolio, Type: \r\n`More`: To get more information about me\r\n`clear`: To erase Terminal");
 term.write('\r\nPS C:\\Users\\Name>');
 
 let input = ""
